@@ -7,7 +7,7 @@ window.configure(bg="gray")
 
 Frame = tk.Label(
     window,
-    text="Hallo tkinter",
+    text="Hallo tkinter", font = ('Calibri', 40, 'bold'),
     fg="white",
     bg="Black"
 )
