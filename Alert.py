@@ -10,6 +10,6 @@ Frame = tk.Label(
 Frame.pack()
 
 for x in range(3):
-    messagebox.showerror("Syntax error", "Invalid Syntax line je ma")
+    messagebox.showerror("Syntax error", "Invalid Syntax")
   
 root.mainloop()
